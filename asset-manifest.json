@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.623de801.chunk.css",
-    "main.js": "/static/js/main.bcbd63da.chunk.js",
-    "main.js.map": "/static/js/main.bcbd63da.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c8bcae13.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c8bcae13.js.map",
-    "static/js/2.8cf464eb.chunk.js": "/static/js/2.8cf464eb.chunk.js",
-    "static/js/2.8cf464eb.chunk.js.map": "/static/js/2.8cf464eb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3435adecf29145329a6b24a3f6fa4e10.js": "/precache-manifest.3435adecf29145329a6b24a3f6fa4e10.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.623de801.chunk.css.map": "/static/css/main.623de801.chunk.css.map",
-    "static/js/2.8cf464eb.chunk.js.LICENSE.txt": "/static/js/2.8cf464eb.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Raleway-Light.6c084270.ttf",
-    "static/media/mainheader.png": "/static/media/mainheader.61d74ada.png",
-    "static/media/me.png": "/static/media/me.a22effeb.png",
-    "static/media/networkicon.png": "/static/media/networkicon.af18ec05.png"
+    "main.css": "/kenaligazali/static/css/main.c3bb6a6e.chunk.css",
+    "main.js": "/kenaligazali/static/js/main.68d5fd22.chunk.js",
+    "main.js.map": "/kenaligazali/static/js/main.68d5fd22.chunk.js.map",
+    "runtime-main.js": "/kenaligazali/static/js/runtime-main.b334fb6e.js",
+    "runtime-main.js.map": "/kenaligazali/static/js/runtime-main.b334fb6e.js.map",
+    "static/js/2.8cf464eb.chunk.js": "/kenaligazali/static/js/2.8cf464eb.chunk.js",
+    "static/js/2.8cf464eb.chunk.js.map": "/kenaligazali/static/js/2.8cf464eb.chunk.js.map",
+    "index.html": "/kenaligazali/index.html",
+    "precache-manifest.94db90a0964a0aad04ca8851388b5b68.js": "/kenaligazali/precache-manifest.94db90a0964a0aad04ca8851388b5b68.js",
+    "service-worker.js": "/kenaligazali/service-worker.js",
+    "static/css/main.c3bb6a6e.chunk.css.map": "/kenaligazali/static/css/main.c3bb6a6e.chunk.css.map",
+    "static/js/2.8cf464eb.chunk.js.LICENSE.txt": "/kenaligazali/static/js/2.8cf464eb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kenaligazali/static/media/Raleway-Light.6c084270.ttf",
+    "static/media/mainheader.png": "/kenaligazali/static/media/mainheader.61d74ada.png",
+    "static/media/me.png": "/kenaligazali/static/media/me.a22effeb.png",
+    "static/media/networkicon.png": "/kenaligazali/static/media/networkicon.af18ec05.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8bcae13.js",
+    "static/js/runtime-main.b334fb6e.js",
     "static/js/2.8cf464eb.chunk.js",
-    "static/css/main.623de801.chunk.css",
-    "static/js/main.bcbd63da.chunk.js"
+    "static/css/main.c3bb6a6e.chunk.css",
+    "static/js/main.68d5fd22.chunk.js"
   ]
 }
