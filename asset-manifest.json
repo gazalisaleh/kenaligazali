@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.623de801.chunk.css",
+    "main.js": "/static/js/main.bcbd63da.chunk.js",
+    "main.js.map": "/static/js/main.bcbd63da.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8bcae13.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8bcae13.js.map",
+    "static/js/2.8cf464eb.chunk.js": "/static/js/2.8cf464eb.chunk.js",
+    "static/js/2.8cf464eb.chunk.js.map": "/static/js/2.8cf464eb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3435adecf29145329a6b24a3f6fa4e10.js": "/precache-manifest.3435adecf29145329a6b24a3f6fa4e10.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.623de801.chunk.css.map": "/static/css/main.623de801.chunk.css.map",
+    "static/js/2.8cf464eb.chunk.js.LICENSE.txt": "/static/js/2.8cf464eb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Raleway-Light.6c084270.ttf",
+    "static/media/mainheader.png": "/static/media/mainheader.61d74ada.png",
+    "static/media/me.png": "/static/media/me.a22effeb.png",
+    "static/media/networkicon.png": "/static/media/networkicon.af18ec05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8bcae13.js",
+    "static/js/2.8cf464eb.chunk.js",
+    "static/css/main.623de801.chunk.css",
+    "static/js/main.bcbd63da.chunk.js"
+  ]
+}
