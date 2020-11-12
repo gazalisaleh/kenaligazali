@@ -75,7 +75,7 @@ export default function CenteredGrid() {
                 <b>Telco Engineer</b>
               </Typography>
               <Typography variant="subtitle1" align="center" style={{ marginTop: 10 }}>
-              Advance in the seluler, fiber optic & processing signal information
+              Understand in the seluler, fiber optic & processing signal information
             </Typography>
             </Paper>
           </Grid>
