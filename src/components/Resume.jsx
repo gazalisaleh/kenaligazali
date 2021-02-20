@@ -26,7 +26,13 @@ export default function Resume() {
             title: 'PT. Datacomm Diangraha',
             description: 'Network Engineer',
             year: '2019 - 2020'
-        }
+        },
+        {
+            id: 1,
+            title: 'PT. Aistech Solution',
+            description: 'IT Infrastructure',
+            year: '2020 - 2021'
+        },
     ]
 
     const education = [
