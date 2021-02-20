@@ -28,11 +28,11 @@ export default function Resume() {
             year: '2019 - 2020'
         },
         {
-            id: 1,
+            id: 2,
             title: 'PT. Aistech Solution',
             description: 'IT Infrastructure',
             year: '2020 - 2021'
-        },
+        }
     ]
 
     const education = [
