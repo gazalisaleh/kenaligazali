@@ -31,7 +31,7 @@ export default function Resume() {
             id: 2,
             title: 'PT. Aistech Solution',
             description: 'IT Infrastructure',
-            year: '2020 - 2021'
+            year: '2020 - 2023'
         }
     ]
 
